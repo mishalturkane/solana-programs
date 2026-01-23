@@ -11,9 +11,9 @@ describe('NFT Minter', () => {
 
   // The metadata for our NFT
   const metadata = {
-    name: 'Homer NFT',
-    symbol: 'HOMR',
-    uri: 'https://raw.githubusercontent.com/solana-developers/program-examples/new-examples/tokens/tokens/.assets/nft.json',
+    name: 'Portfolio NFT',
+    symbol: 'PORTFOLIO',
+    uri: 'https://raw.githubusercontent.com/mishalturkane/solana-programs/main/nft_minter/nft.json',
   };
 
   it('Create an NFT!', async () => {
