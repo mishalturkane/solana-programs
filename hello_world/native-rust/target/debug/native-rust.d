@@ -1,0 +1,1 @@
+/home/mishal/solana-programs/hello_world/native-rust/target/debug/native-rust: /home/mishal/solana-programs/hello_world/native-rust/src/lib.rs /home/mishal/solana-programs/hello_world/native-rust/src/main.rs

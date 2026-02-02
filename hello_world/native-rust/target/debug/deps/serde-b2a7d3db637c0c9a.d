@@ -1,0 +1,14 @@
+/home/mishal/solana-programs/hello_world/native-rust/target/debug/deps/serde-b2a7d3db637c0c9a.d: /home/mishal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/mishal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/mishal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/mishal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/mishal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/mishal/solana-programs/hello_world/native-rust/target/debug/build/serde-0c79bc1bb5bf9eba/out/private.rs
+
+/home/mishal/solana-programs/hello_world/native-rust/target/debug/deps/libserde-b2a7d3db637c0c9a.rlib: /home/mishal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/mishal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/mishal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/mishal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/mishal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/mishal/solana-programs/hello_world/native-rust/target/debug/build/serde-0c79bc1bb5bf9eba/out/private.rs
+
+/home/mishal/solana-programs/hello_world/native-rust/target/debug/deps/libserde-b2a7d3db637c0c9a.rmeta: /home/mishal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/mishal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/mishal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/mishal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/mishal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/mishal/solana-programs/hello_world/native-rust/target/debug/build/serde-0c79bc1bb5bf9eba/out/private.rs
+
+/home/mishal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/mishal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/mishal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/mishal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/mishal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/mishal/solana-programs/hello_world/native-rust/target/debug/build/serde-0c79bc1bb5bf9eba/out/private.rs:
+
+# env-dep:OUT_DIR=/home/mishal/solana-programs/hello_world/native-rust/target/debug/build/serde-0c79bc1bb5bf9eba/out
